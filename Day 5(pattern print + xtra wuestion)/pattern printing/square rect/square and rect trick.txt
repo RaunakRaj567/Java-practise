@@ -1,0 +1,7 @@
+main principle to do rect and square printing problem is to run to for loops in nested condition.
+for( conditions){
+    for(conditions ){
+        sout()
+    }
+    sout
+}
